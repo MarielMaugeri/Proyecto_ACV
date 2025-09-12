@@ -5,7 +5,7 @@
 
 ## Datos
 &nbsp;&nbsp;&nbsp;&nbsp;Este conjunto de datos se utiliza para predecir la probabilidad de que un paciente sufra un ictus según parámetros como el sexo, la edad, diversas enfermedades y el tabaquismo. Se cuenta con 5110 filas, y cada una proporciona información relevante sobre el paciente.  
-&nbsp;Los datos se encuentran en un csv descargado de [Kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset).  
+&nbsp;&nbsp;&nbsp;&nbsp;Los datos se encuentran en un csv descargado de [Kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset).  
 
 &nbsp;&nbsp;&nbsp;&nbsp;La información con la que se cuenta es la siguiente:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;id: identificador único.  
